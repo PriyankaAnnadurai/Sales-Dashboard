@@ -1,6 +1,5 @@
 # Sales-Dashboard
 
-## Description
 This project showcases a **Sales Dashboard** built in **Microsoft Power BI** to analyze business performance across categories, segments, regions, and time.  
 It provides insights on **total sales, profit, quantity, shipping modes, payment methods, and customer segments**, helping stakeholders make **data-driven decisions** quickly and effectively.  
 
